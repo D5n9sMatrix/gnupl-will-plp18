@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnupl-will.a CMakeFiles/gnupl-will.dir/gnupl-will.cpp.o
+/usr/bin/ranlib libgnupl-will.a
